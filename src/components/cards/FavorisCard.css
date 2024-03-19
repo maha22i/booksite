@@ -1,0 +1,27 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.element{
+    margin: 2%;
+    padding: 2%;
+    width: 25%;
+    border-style: dotted;
+    border-width: 1px;
+    border-radius: 8%;
+    border-color: #979797;
+}
+h5{
+    font-size: 1.5rem;
+    margin:2%;
+}
+h6{
+    margin:0;
+}
+.title{
+    color: #979797;
+    margin-bottom: 5%;
+}

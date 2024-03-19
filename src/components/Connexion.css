@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-weight: 300;
+    font-family: fantasy;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.form{
+    height:150px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+}
+Button{
+    margin-left: 5%;
+}
